@@ -1,4 +1,4 @@
-# Hi, I'm Matvey 👋
+# Hi, I'm Matvei 👋
 
 🎮 14 y.o. gamedev developer from Ukraine Zhytomyr
 🐍 Building real games with Python + Pygame  
